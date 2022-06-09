@@ -1,0 +1,66 @@
+@charset "utf-8";
+.p1   {
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+    margin: 5px;
+    background-image: url(https://img95.699pic.com/photo/50031/9487.jpg_wh300.jpg);
+}
+
+.p2 {
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(https://www.lookit.tw/upload/5a/d37/50b786e1f5bc4eadad13a5c4aa5cc029.jpg);margin: 5px;
+}
+.p3 {
+    height: 300px;
+    background-color: #B2E0FA;
+    background-image: url(https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2020/11/07/20201107-092915_U13380_M651499_4ac4.jpg?itok=6KFZde7p);
+    background-position: center center;
+    background-size: cover;margin: 5px;
+}
+
+.p4   {
+    height: 300px;
+    background-image: url(https://obs.line-scdn.net/0h--b4u85TcgJfTVn_tHANVWUbcW1sIWEBO3sjARwjLDYndWUAZCxtbHwaLmV3fDVcMSM9YnlKaTMiKDNVNi9t/w644);
+    background-position: center center;
+    background-size: cover;margin: 5px;
+}
+.p5 {
+    height: 300px;
+    background-image: url(https://larryontheway.com/wp-content/uploads/2020/05/%E9%B1%B7%E9%AD%9A%E5%B3%B6.jpg);
+    background-position: center center;
+    background-size: cover;margin: 5px;
+}
+.p6 {
+    height: 600px;
+    background-image: url(https://tour.taitung.gov.tw/image/26551/1024x768);
+    background-position: center center;
+    background-size: cover;margin: 5px;
+}
+.p7 {
+    height: 100px;
+    font-size: 65px;
+    text-align: center;
+    background-color: #BDE3F4;
+    color: #0A5FC9;
+}
+.p8 {
+    height: 600px;
+    background-image: url(https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/202101/article-6006b2a795382.jpg);
+    background-position: center center;
+    background-size: cover; margin: 5px;
+}
+.p9 {
+    background-image: url(https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2018/10/08/20181008-054948_U13613_M460807_031d.jpg?itok=AvClS8il);
+    background-position: center center;
+    background-size: cover;
+    height: 300px; margin: 5px;
+}
+.p10 {
+    background-image: url(https://uc.udn.com.tw/photo/2019/02/19/99/5945479.jpg);
+    height: 300px;
+    background-position: center center;
+    background-size: cover; margin: 5px;
+}
